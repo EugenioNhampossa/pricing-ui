@@ -14,6 +14,7 @@ export default {
       "light-green": "#73F423",
       gray: "#363835",
       black: "#000000",
+      white:"#FFFFFF"
     },
     extend: {},
   },
